@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+font-awesome-4.7.0
+eduford_img
+public
+favicon_io
